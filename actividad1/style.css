@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+                
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+@media (width <= 415px){
+    header{
+        justify-content: center;
+    }   
+}
+
+ul{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    list-style: none;
+}
+
+li{
+    margin: 10px;
+}
+
+.login{
+    margin: 10px;
+}
+
+.logo{
+    margin: 10px
+}
+
+.contenedor{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+
+
+@media (width <= 620px){
+    .contenedor{
+    display: grid;
+    grid-template-columns: auto auto;
+    }
+}
+
+@media (width <= 415px){
+    .contenedor{
+    display: grid;
+    grid-template-columns: auto;
+    }
+}
+
+.card{
+    border: 1px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+.resena{
+    margin: 20px;
+}
