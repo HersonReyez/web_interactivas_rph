@@ -1,13 +1,21 @@
 # APLICACIONES WEB INTERACTIVAS
 
-## Actividad 1
+## Primer Parcial
+
+### Actividad 1
 Landing page usando solo HTML y CSS
 
-## Actividad 2
+### Actividad 2
 Presentación usando solo Bootstrap
 
-## Actividad 3
+### Actividad 3
 Landing page usando solo HTML con Bootstrap
 
-## Actividad 4
+### Actividad 4
 Landing page completa usando solo HTML con Bootstrap
+
+## Segundo Parcial
+
+### Actividad 1 - gestor-tareas
+
+### Actividad 2 - recetario-casero
