@@ -36,9 +36,8 @@ El administrador se creo mediente un seeder en sistema-torneos/database/seeders/
             'password' => Hash::make('admin123'),
             'role' => 'admin',
         ]);
-Levantamos el proyecto con las migraciones y seeders
 ```
-
+Levantamos el proyecto con las migraciones y seeders
 ```bash
 # Ejecutar las migraciones
 $ php artisan migrate --seed
